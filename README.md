@@ -63,5 +63,5 @@ All the code is tested with the **unittest** module.
 The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
-- [hesham ahmed](https://github.com/heshamahmed191988) and  Mohamed Magdi Hasanain (https://github.com/moohamedmagdi) ~:
+- [hesham ahmed](https://github.com/heshamahmed191988) and  [Mohamed Magdi Hasanain](https://github.com/moohamedmagdi) ~:
 *Sharpening our skills at ALX  Software Engineering. we have a lifelong passion for programming with a background in mathematics and a daily meditation practice.
